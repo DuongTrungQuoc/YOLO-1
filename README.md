@@ -1,4 +1,4 @@
-# yolo_basic
+# yolo_basic (YOLOv3)
 
 1. Download weights file from https://pjreddie.com/media/files/yolov3.weights
 2. Install opencv : pip install opencv-python
